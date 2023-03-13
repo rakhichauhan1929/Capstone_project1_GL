@@ -1,0 +1,2 @@
+dependencies for app.py
+flask==1.0.2
